@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+data/
+*.sqlite
+*.sqlite3
+*.db
+node_modules/
+dist/
+.pytest_cache/
+__pycache__/
+*.py[cod]
+.gradle/
+build/
+coverage/
+.DS_Store
